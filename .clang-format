@@ -1,0 +1,13 @@
+---
+Language: Cpp
+DerivePointerAlignment: true
+PointerAlignment: Left
+BasedOnStyle: LLVM
+IndentWidth: 8
+UseTab: Always
+ColumnLimit: 200
+SpaceAfterCStyleCast: true
+IndentCaseLabels: true
+AllowShortLoopsOnASingleLine: true
+AllowShortIfStatementsOnASingleLine: true
+# AllowShortLambdasOnASingleLine: None

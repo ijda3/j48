@@ -1,0 +1,13 @@
+Baixo risco, Alto risco
+idade : int
+anemia : int
+creatinofosfoquinase : int
+diabetes : int
+fracao_ejecao : int
+hipertensao : int
+nr_plaquetas : float
+creatinina : float
+sodio_serico : int
+sexo : int
+fumante : int
+dias_acompanhamento : int
